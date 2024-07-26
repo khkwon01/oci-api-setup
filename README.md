@@ -3,7 +3,7 @@
 1) install oci cli
 ```
 yum -y install oraclelinux-developer-release-el8
-yum -y install python36-oci-cli
+yum -y install python39-oci-cli
 oci-metadata -g region
 ```
 
